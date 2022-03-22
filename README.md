@@ -1,2 +1,2 @@
 # jenkins-pipeline
-Create jenkins pipeline sample
+Create jenkins scripted pipeline sample
